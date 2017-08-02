@@ -2,12 +2,13 @@
 <h1>个人简历</h1>
 <h6>吴银超的个人简历</h6>
 <h2>个人信息</h2>
-姓名：吴银超
-性别：男
-毕业学校：河北工业大学
+<p>姓名：吴银超</p>
+<p>性别：男</p>
+<p>毕业学校：河北工业大学</p>
 <h2>技术能力：</h2>
+<p>专注并且热爱web开发，熟练掌握JavaScript、HTMl、CSS以及JavaScript框架来搭建web应用。了解原生JavaScript和JavaScript类库的使用。</p>
 <ul>
-  <li>掌握的JavaScript类库：jQuery、Prototype</li>•
+  <li>掌握的JavaScript类库：jQuery、Prototype</li>
   <li>掌握的JavaScript框架：BackBone、Vuejs、Angular.js、React.js</li>
   <li>掌握的CSS预编译器：LessCss、Sass</li>
   <li>掌握JavaScript模块加载器：RequireJS、Browserify</li>
